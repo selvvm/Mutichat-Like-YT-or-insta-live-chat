@@ -1,4 +1,0 @@
-1. Developed a TCP server in Go for efficient client communication, demonstrating network programming expertise.
-2. Implemented concurrent client handling using goroutines and channels, ensuring scalability and responsiveness.
-3. Enhanced server robustness with error handling mechanisms, ensuring stable operation in challenging network environments.
-4. Enforced security measures like strike counts and banning to maintain server integrity and protect against abuse.
